@@ -1,7 +1,7 @@
 ## Olá me chamo Jonnas Willian, desenvolvedor Full-Stack
 
 - 🔭 Atualmente trabalhando como desenvolvedor Full-Stack com Php, JavaScript, CodeIgniter, html, css, boodstrap  MySQL
-- 🌱 6 Semestre no curso de ciência da computação
+- 🌱 8 Semestre no curso de ciência da computação
 - 😄 4 anos na área de desenvolvimento
 - 💬 devjonnas@gmail.com
 - 📫 Salvador, Ba
