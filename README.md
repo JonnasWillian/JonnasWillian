@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalhando como desenvolvedor Full-Stack com PHP, CodeIgniter, Laravel, JavaScript, Node, React, TypeScript e MySQL
 - 🎓 Formado em ciência da computação
 - 🌱 Pós-graduado em Big Data, Analytics e BI focado em negócios
-- 😄 4 anos na área de desenvolvimento
+- 😄 5 anos na área de desenvolvimento
 - 💬 jonnasnogueira2@gmail.com
 - 📫 Salvador, Ba
 
