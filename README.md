@@ -152,13 +152,6 @@ const jonnasProfile = {
 
 ## 🎯 Contribution Activity
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JonnasWillian/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JonnasWillian/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JonnasWillian/output/pacman-contribution-graph.svg" width="100%">
-</picture>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JonnasWillian&color=0061C3&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
