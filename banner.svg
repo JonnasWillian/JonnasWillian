@@ -1,0 +1,53 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1a2233" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="fade" cx="70%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#0a0e17" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0a0e17" stop-opacity="0.9"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="200" fill="#0a0e17"/>
+  <rect width="1200" height="200" fill="url(#grid)"/>
+  <rect width="1200" height="200" fill="url(#fade)"/>
+
+  <g stroke="#2a3350" stroke-width="1.4" fill="none">
+    <path d="M 940 100 L 1010 55"/>
+    <path d="M 940 100 L 1030 100"/>
+    <path d="M 940 100 L 1010 145"/>
+    <path d="M 940 100 L 950 40"/>
+    <path d="M 940 100 L 945 165"/>
+  </g>
+
+  <g stroke="#3fd6c0" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M 940 100 L 1010 55" stroke-dasharray="10 120" stroke-dashoffset="0">
+      <animate attributeName="stroke-dashoffset" from="0" to="-130" dur="3.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 940 100 L 1030 100" stroke="#f2a93b" stroke-dasharray="10 120" stroke-dashoffset="-40">
+      <animate attributeName="stroke-dashoffset" from="-40" to="-170" dur="3.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 940 100 L 1010 145" stroke-dasharray="10 120" stroke-dashoffset="-80">
+      <animate attributeName="stroke-dashoffset" from="-80" to="-210" dur="3.2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <circle cx="940" cy="100" r="9" fill="#f2a93b"/>
+  <circle cx="940" cy="100" r="15" fill="none" stroke="#f2a93b" stroke-opacity="0.4" stroke-width="1.5">
+    <animate attributeName="r" values="15;24;15" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.4;0;0.4" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <g fill="#3fd6c0">
+    <circle cx="1010" cy="55" r="5"/>
+    <circle cx="1030" cy="100" r="5"/>
+    <circle cx="1010" cy="145" r="5"/>
+    <circle cx="950" cy="40" r="4"/>
+    <circle cx="945" cy="165" r="4"/>
+  </g>
+
+  <text x="60" y="88" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="3" fill="#3fd6c0">DESENVOLVEDOR FULL STACK · ARQUITETURA DE SOFTWARE</text>
+  <text x="58" y="132" font-family="Verdana, Arial, sans-serif" font-size="42" font-weight="700" fill="#e9ecf3">Jonnas Willian</text>
+  <text x="60" y="162" font-family="Verdana, Arial, sans-serif" font-size="18" font-weight="600" fill="#f2a93b">Coordenador de Desenvolvimento de Software</text>
+</svg>
