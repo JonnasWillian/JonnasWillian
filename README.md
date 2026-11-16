@@ -146,5 +146,5 @@ Atuo no setor público (mobilidade urbana, execução orçamentária, videomonit
 ---
 
 <div align="center">
-  <strong>Coordenador de Desenvolvimento de Software na Horizon Inovação e Tecnologia</strong>
+  <strong>Coordenador de Desenvolvimento de Software</strong>
 </div>
