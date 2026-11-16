@@ -20,7 +20,6 @@
 ```typescript
 const jonnasProfile = {
   role: "Coordenador de Desenvolvimento de Software",
-  company: "Horizon Inovação e Tecnologia",
   location: "Salvador, Bahia, Brasil",
   specializations: [
     "Sistemas Críticos para o Setor Público",
