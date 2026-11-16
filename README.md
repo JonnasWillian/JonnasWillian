@@ -32,7 +32,7 @@ const jonnasProfile = {
 };
 ```
 
-Hoje, na Horizon Inovação e Tecnologia, decido arquitetura e conduzo due diligence técnica para sistemas cujos indicadores alimentam diretamente a remuneração contratual de concessionárias de transporte público. Fora do expediente, construo cadeias de agentes de IA para automação jurídica e um aplicativo de tradução offline.
+Hoje, decido arquitetura e conduzo due diligence técnica para sistemas cujos indicadores alimentam diretamente a remuneração contratual de concessionárias de transporte público. Fora do expediente, construo cadeias de agentes de IA para automação jurídica e um aplicativo de tradução offline.
 
 ## 🏆 Core Responsibilities & Skills
 
